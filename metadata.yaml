@@ -1,0 +1,40 @@
+_repo: La-metamorfosis-o-El-asno-de-oro_66591
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: López de Cortegana, Diego
+    aliases:
+    - Cortigana, Diego López de
+    - De Cortegana, Diego López
+    - Cortegana, Diego López de
+    - Lopez de Cortegana, Diego
+    birthdate: 1455
+    deathdate: 1524
+    gutenberg_agent_id: '53818'
+    url: http://www.gutenberg.org/2009/agents/53818
+    wikipedia: https://es.wikipedia.org/wiki/Diego_L%C3%B3pez_de_Cortegana
+creator:
+  author:
+    agent_name: Apuleius
+    aliases:
+    - Apuleius Platonicus Madaurensis
+    - Apuleius, Lucius
+    gutenberg_agent_id: '685'
+    url: http://www.gutenberg.org/2009/agents/685
+    wikipedia: https://en.wikipedia.org/wiki/Apuleius
+description: ''
+gutenberg_issued: '2021-10-22'
+identifiers:
+  gutenberg: '66591'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Mythology, Classical -- Fiction'
+- !lcsh 'Latin fiction -- Translations into Spanish'
+- !lcsh 'Metamorphosis -- Fiction'
+- GITenberg
+title: La metamorfosis, o, El asno de oro
+url: http://www.gutenberg.org/ebooks/66591
