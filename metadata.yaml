@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '53818'
     url: http://www.gutenberg.org/2009/agents/53818
     wikipedia: https://es.wikipedia.org/wiki/Diego_L%C3%B3pez_de_Cortegana
+covers:
+- cover_type: archival
+  image_path: 66591-h/images/cover.jpg
 creator:
   author:
     agent_name: Apuleius
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/685
     wikipedia: https://en.wikipedia.org/wiki/Apuleius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66591#La-metamorfosis-o-El-asno-de-oro
 gutenberg_issued: '2021-10-22'
 identifiers:
   gutenberg: '66591'
